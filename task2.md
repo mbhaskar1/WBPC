@@ -27,23 +27,25 @@ print("Answer")
 **Test Case 1**
 
 Input 1 → `11231`
-`n = [1,1,2,3,1]`
+`n = ['1','1','2','3','1']`
 Output 1 → `True`
 
 **Test Case 2**
 
 Input 2 → `112232233`
-`n = [1,2,2,3,2,2,3,3]`
 Output 2 → `False`
 
 **Test Case 3**
 
 Input 3 → `11223123`
-`n = [1,2,2,3,1,2,3]`
 Output 3 → `True`
 
 **Test Case 4**
 
-Input 4 → `524708915470230123212138493`
-`n = [5,2,4,7,0,8,9,1,5,4,7,0,2,3,0,1,2,3,2,1,2,1,3,8,4,9,3]`
+Input 4 → `5247070230123212138`
 Output 4 → `True`
+
+**Test Case 5**
+
+Input 5 → `23`
+Output 5 → `False`
