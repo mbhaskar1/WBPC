@@ -10,27 +10,11 @@ An array of integers, __*n*__
 
 **Constraints**
 
-* len( __*x*__ ) ≥ 0
+* 1000 ≥ len( __*x*__ ) ≥ 0
 
 **Output Format**
 
 Print `True` the conditions are met; otherwise, print `False`.
-
-**Sample I/O 1**
-
-Input 1 → `11231`
-
-`n = [1,1,2,3,1]`
-
-Output 1 → `True`
-
-**Sample I/O 2**
-
-Input 2 → `11223`
-
-`n = [1,1,2,2,3]`
-
-Output 2 → `False`
 
 **Sample Code**
 
@@ -39,3 +23,21 @@ n = list(input())
 
 print("Answer")
 ```
+
+**Test Case 1**
+
+Input 1 → `11231`
+`n = [1,1,2,3,1]`
+Output 1 → `True`
+
+**Test Case 2**
+
+Input 2 → `112232233`
+`n = [1,2,2,3,2,2,3,3]`
+Output 2 → `False`
+
+**Test Case 3**
+
+Input 2 → `11223123`
+`n = [1,2,2,3,1,2,3]`
+Output 2 → `True`
