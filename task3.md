@@ -1,4 +1,4 @@
-﻿# Task 1
+﻿# Task 3
 Given a string, __*x*__, find the missing digit.
 
 **Input Format**
