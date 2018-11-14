@@ -1,9 +1,9 @@
 # WBPC
 
 ## Tasks
-* [Task 1](../task1)
-* [Task 2](../task2)
-* [Task 3](../task3)
+* [Task 1](../WBPC/task1)
+* [Task 2](../WBPC/task2)
+* [Task 3](../WBPC/task3)
 
 ## Lessons
-* [Lesson 1](../lesson1)
+* [Lesson 1](../WBPC/lesson1)
