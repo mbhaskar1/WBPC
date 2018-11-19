@@ -8,3 +8,4 @@
 
 ## Lessons
 * [Lesson 1](../WBPC/lesson1)
+* [Lesson 2](../WBPC/lesson2)
