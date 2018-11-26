@@ -8,7 +8,7 @@ Pygame is a python module with tools for creating games and animations
 2) Deselect `Install launcher for all users` and select `Add Python 3.6 to PATH` then click `Install Now`
 3) Go to [PythonRunner](https://github.com/mbhaskar1/WBPC/raw/master/PythonRunner.bat) and `Right-Click -> Save As` to the folder where you'll save your code
 4) Run `PythonRunner.bat` and type `pip install pygame`
-5) Create a `.py` file in VS Code and save it in the same folder as `PythonRunner.bat`
+5) Create a `.py` file in Notepad++ and save it in the same folder as `PythonRunner.bat`
 6) Write your code in that file. To run code, type the name of the file in `PythonRunner.bat`
 
 **Base Code:**
