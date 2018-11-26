@@ -5,7 +5,7 @@ Pygame is a python module with tools for creating games and animations
 **Installation**
 
 1) Download [Python 3.6.7 Installer](https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe) and launch installer
-2) Deselect `Install launcher for all users` and select `Add Python 3.6 to PATH`
+2) Deselect `Install launcher for all users` and select `Add Python 3.6 to PATH` then click `Install Now`
 3) Go to [PythonRunner](https://github.com/mbhaskar1/WBPC/raw/master/PythonRunner.bat) and `Right-Click -> Save As` to the folder where you'll save your code
 4) Run `PythonRunner.bat` and type `pip install pygame`
 5) Create a `.py` file in VS Code and save it in the same folder as `PythonRunner.bat`
